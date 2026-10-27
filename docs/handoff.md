@@ -70,13 +70,12 @@ STATUS: taken over 2026-10-27
    happen without it?" Next topics: how the twin jumps time, how the checks read the trace.
 
 ## Decisions waiting on Vinay
-- **A second dispute in bad-month** (e.g. one the app answers in time, to show lost and won side by side). Sara
-  recommended **no**: it needs re-recording with his API key (money) and changes the numbers in every doc and the video.
-  He has not answered.
+- None.
 
 ## Settled (do not reopen)
 - Price $39 per developer per month, free for one. AI model `claude-opus-5-5`. AG Grid Community only (never Enterprise).
-- The scenario has exactly one dispute on purpose (Maya healthy, Leo's card fails, Ana disputes).
+- The scenario has exactly one dispute on purpose (Maya healthy, Leo's card fails, Ana disputes). Vinay confirmed on
+  27 Oct: no second dispute in bad-month.
 - `docs/details.txt` is Vinay's raw paste of the rules, already digested into `docs/hackathon-details.md`. Leave it
   untracked; never stage it.
 
